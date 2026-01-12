@@ -7,7 +7,7 @@
 <h3 align="center">
   Full-Stack Developer | Java · Angular · Spring Boot · PostgreSQL  
   <br/>
-  🚀 DevOps & Cloud Enthusiast (Kubernetes & AWS)
+   DevOps & Cloud Enthusiast (Kubernetes & AWS)
 </h3>
 
 <div align="center">
